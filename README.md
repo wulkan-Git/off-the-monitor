@@ -1,6 +1,7 @@
 # off-the-monitor
 AutoHotkey скрипт, который выключает монитор
-ояснения:
+
+Пояснения:
 
 PostMessage вместо SendMessage - не блокирует выполнение скрипта
 
